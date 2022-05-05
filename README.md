@@ -3,9 +3,9 @@
 This is a full business analysis to derive insights from products, customers and time-profit analysis.
 
 
-THE PROCESS
+# THE PROCESS
 
-Tools used:
+# Tools used:
 
 Microsoft PowerBI Desktop
 
@@ -13,7 +13,7 @@ Power Query Editor
 
 Microsoft Power Point
 
-Techniques:
+# Techniques:
 
 Data Loading (ETL)
 
@@ -27,6 +27,6 @@ Creating and using DAX measures for powerful insights
 
 Creating theme in Json file
 
-DELIVERABLE
+# DELIVERABLES
 
 Interactive Dashboard of visualizing customer info such as annual income, level of education, occupation, most ordered products, products with highest revenue, product color preference, revenue by months and quarter etc.
